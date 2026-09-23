@@ -1,0 +1,6 @@
+Potential issue noted as of 2026-05-14
+- The line graph table may not refresh properly even though the procedure is run successfully through Python.
+- This may be a glitch as it refreshes perfectly when run directly in SQL Studio. It also refreshes perfectly when re-running through Python.
+- Possible solution: re-run the procedures
+
+ 
